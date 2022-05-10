@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cdbdd3c8-e18f-43d1-9c26-e500100c2d72" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../day06/ex01/Tests/src/main/java/edu/school21/numbers/NumberWorker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day06/ex01/Tests/src/test/java/edu/school21/numbers/NumberWorkerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day06/ex01/Tests/src/test/resources/data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day08/ex00/Spring/src/main/java/printer/PrinterWithPrefixImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day08/ex00/Spring/target/classes/context.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day08/ex02/Service/src/main/java/school21/spring/service/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day05/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day05/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day05/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day05/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day05/.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day05/.idea/sqldialects.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day05/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day05/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day05/src/main/java/edu/school21/chat/models/Chatroom.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../day05/src/main/java/edu/school21/chat/models/Chatroom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day05/src/main/java/edu/school21/chat/models/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../day05/src/main/java/edu/school21/chat/models/Message.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day05/src/main/resources/schema.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../../day05/src/main/resources/schema.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day05/target/classes/edu/school21/chat/models/Message.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../day05/target/classes/edu/school21/chat/models/Message.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day05/target/classes/schema.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../../day05/target/classes/schema.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test" beforeDir="false" afterPath="$PROJECT_DIR$/../../test" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="28Wxw34Mj3NX4VUIi1XE7peyIN5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cdbdd3c8-e18f-43d1-9c26-e500100c2d72" name="Changes" comment="" />
+      <created>1651346378096</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651346378096</updated>
+      <workItem from="1651346379190" duration="6000" />
+      <workItem from="1651346871023" duration="1000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

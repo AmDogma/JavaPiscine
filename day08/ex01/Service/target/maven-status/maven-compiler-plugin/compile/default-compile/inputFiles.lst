@@ -1,0 +1,6 @@
+/Users/mdewayne/IdeaProjects/day08/ex01/Service/src/main/java/school21/spring/service/application/Main.java
+/Users/mdewayne/IdeaProjects/day08/ex01/Service/src/main/java/school21/spring/service/repositories/CrudRepository.java
+/Users/mdewayne/IdeaProjects/day08/ex01/Service/src/main/java/school21/spring/service/repositories/UsersRepository.java
+/Users/mdewayne/IdeaProjects/day08/ex01/Service/src/main/java/school21/spring/service/models/User.java
+/Users/mdewayne/IdeaProjects/day08/ex01/Service/src/main/java/school21/spring/service/repositories/UsersRepositoryJdbcImpl.java
+/Users/mdewayne/IdeaProjects/day08/ex01/Service/src/main/java/school21/spring/service/repositories/UsersRepositoryJdbcTemplateImpl.java
